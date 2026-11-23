@@ -6,7 +6,7 @@ A Verilog design for **Tiny Tapeout GF180**, combining a selectable square-wave 
 - External operating clock: **10 kHz**
 - Input debounce: **10 ms**, on both transitions
 - Technology: `gf180mcuD`
-- Template workflow reference: `ttgf26c` (confirm compatibility with your target shuttle)
+- Template workflow reference: `ttgf26c` 
 
 ## Clock and difficulty
 
