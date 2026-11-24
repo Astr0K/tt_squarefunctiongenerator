@@ -1,6 +1,6 @@
 project:
   title: "Square Function Generator and Reaction Game"
-  author: "Alejandra Velazquez Treviño, Glauber Abril Arce, Isaac Cadena Zamora, Luis Xavier Jauregui de la Rosa"
+  author: "Luis Xavier Jauregui de la Rosa, Alejandra Velazquez Treviño, Glauber Abril Arce, Isaac Cadena Zamora"
   discord: "astr0k_"
   description: "Four selectable clock divisions and an LFSR-based reaction game"
   language: "Verilog"
